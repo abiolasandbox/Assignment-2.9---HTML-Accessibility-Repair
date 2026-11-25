@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Our Team</title>
+</head>
+<body>
+  <header>
+    <button type="button">Login</button>
+  </header>
+  <main>
+    <h1>Our Team</h1>
+    <h2>About Us</h2>
+    <img src="team.jpg" alt="Group photo of our team">
+    <p>
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name">
+    </p>
+    <p>
+      <a href="/services">View our services</a>
+    </p>
+  </main>
+</body>
+</html>
